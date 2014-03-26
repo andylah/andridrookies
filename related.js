@@ -1,4 +1,3 @@
-<script type='text/javascript'>
 //<![CDATA[
 var relatedTitles = new Array();
 var relatedTitlesNum = 0;
@@ -50,4 +49,3 @@ i++;
 
 }
 //]]>
-</script>
